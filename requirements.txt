@@ -1,0 +1,9 @@
+fastapi==0.70.0
+uvicorn==0.15.0
+requests==2.25.1
+cachetools==4.2.1
+google-auth==1.27.0
+google-auth-oauthlib==0.4.2
+itsdangerous==2.0.1
+python-multipart==0.0.5
+python-dotenv==0.19.2
