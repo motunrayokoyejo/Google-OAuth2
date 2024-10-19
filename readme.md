@@ -1,4 +1,6 @@
-### Google OAuth using Python FastAPI 
+## Google OAuth using Python FastAPI 
+
+This demo app showcases the use of Google OAuth 2.0 for secure login and logout functionalities, built with FastAPI. It demonstrates how to securely authenticate users through a third-party provider and grant access to protected endpoints.
 
 
 ## Requirements
@@ -7,7 +9,7 @@ To run this app on your local machine, you need to meet these base requirements:
 - Google OAuth client credentials. 
 
 ## Getting Started
-# Set up
+### Set up
 - Go to https://console.cloud.google.com/ 
 - Register a service with Google > create a new project 
 - Within the new project, go to APIs + Services -> Create credentials -> Configure Consent Screen -> External Users > Name the project again -> Enter support email
