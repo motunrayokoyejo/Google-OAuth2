@@ -1,7 +1,7 @@
 fastapi==0.70.0
 uvicorn==0.15.0
 requests==2.25.1
-cachetools==4.2.1
+cachecontrol==0.12.11
 google-auth==1.27.0
 google-auth-oauthlib==0.4.2
 itsdangerous==2.0.1
