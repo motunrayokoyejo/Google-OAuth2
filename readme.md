@@ -13,7 +13,7 @@ To run this app on your local machine, you need to meet these base requirements:
 - Go to https://console.cloud.google.com/ 
 - Register a service with Google > create a new project 
 - Within the new project, go to APIs + Services -> Create credentials -> Configure Consent Screen -> External Users > Name the project again -> Enter support email
-- Go back to dashboard > Credentials > Create Creds > OAuth Client ID > web app > define your redirect url of your web app (http://localhost/callback
+- Go back to dashboard > App&Service > Credentials > Create Creds > OAuth Client ID > web app > define your redirect url of your web app (http://localhost/callback
 - Download your credentials as a json file
 - copy credentials into the secret.json file
 - Clone this repository
